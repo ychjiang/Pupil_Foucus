@@ -9,3 +9,4 @@ Focus Your Eye
   
   
 # platform
+  vs2015+opencv
